@@ -1,0 +1,7 @@
+﻿  TestSQL.cpp
+C:\Users\lubin\source\repos\TestSQL\TestSQL\TestSQL.cpp(16,21): warning C4101: 'bTypeOfCard' : variable locale non référencée
+  Génération de code en cours
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  TestSQL.vcxproj -> C:\Users\lubin\source\repos\TestSQL\x64\Release\TestSQL.exe
